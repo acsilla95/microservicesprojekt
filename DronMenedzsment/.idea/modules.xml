@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DronMenedzsment.iml" filepath="$PROJECT_DIR$/DronMenedzsment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DronMenedzsment_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DronMenedzsment_main.iml" group="DronMenedzsment" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DronMenedzsment_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DronMenedzsment_test.iml" group="DronMenedzsment" />
+    </modules>
+  </component>
+</project>
